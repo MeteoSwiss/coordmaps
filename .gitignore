@@ -1,0 +1,18 @@
+# Rendered README.md
+README.html
+README_files
+
+# R session saves
+.Rhistory
+.RData
+
+# RStudio project files
+*.Rproj
+.Rproj.user
+
+# Temporary files
+~$*
+tmp/*
+
+# Exclude folders ending with double underscore
+**/*__/
